@@ -2,4 +2,4 @@
 This is a simple music player app with only one song in the database.
 
 
-![alt text](madiaapp.jpg)
+![alt text](mediaapp.jpg)
